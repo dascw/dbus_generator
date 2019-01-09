@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 
 from dbus.mainloop.glib import DBusGMainLoop
 import gobject
